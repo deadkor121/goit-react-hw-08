@@ -1,0 +1,14 @@
+.container {
+  /* max-width: 800px; */
+  margin: 0 auto;
+  padding: 20px;
+  background: linear-gradient(135deg, #f9f9f9, #bec1c3);
+  height: calc(100% - 44px);
+}
+.title {
+  font-size: 24px;
+  font-weight: bold;
+  color: #333;
+  margin-bottom: 36px;
+  text-align: center;
+}
