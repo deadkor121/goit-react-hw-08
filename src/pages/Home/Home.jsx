@@ -37,7 +37,7 @@ const Home = () => {
           Start using our app today and simplify the way you manage your
           contacts!
         </li>
-      </ul>
+    </ul>
     </div>
   );
 };
